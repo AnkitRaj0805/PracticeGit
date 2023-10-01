@@ -1,1 +1,1 @@
-echo "my first project for devops learning"
+echo "my first project for devops"
